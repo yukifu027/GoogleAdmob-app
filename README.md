@@ -1,4 +1,8 @@
-# GoogleAdmob-app
+<h2 align="center">Google AdMob</h2>
+
+<p align="center">
+  <img src="https://i.gyazo.com/8797ee265b812bab2251d79c334bccfc.png" width="250px;"/>
+</p>
 
 
 # アプリ名
