@@ -12,7 +12,9 @@ GoogleAdMobを使って、広告（現在はテスト用）を表示させるこ
  
 # DEMO
 ## 1 画面下部にバナー広告が表示されます
-
+<p align="center">
+  <img src="https://i.gyazo.com/8797ee265b812bab2251d79c334bccfc.png" width="250px;"/>
+</p>
 
 # 工夫したポイント
 # 使用技術(開発環境)
